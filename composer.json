@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "name": "gustavo/shop-right",
+    "authors": [
+        {
+            "name": "gustavo lopes"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "predis/predis": "^2.3"
+    }
+}
